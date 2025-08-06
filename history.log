@@ -1,3 +1,4 @@
 2025-06-24 09:29:33 - docs: add installation guide
 2025-07-06 14:50:22 - chore: update dependencies
 2025-07-31 11:42:26 - fix: update response parser
+2025-08-06 16:16:33 - feat: add initial chatbot model
