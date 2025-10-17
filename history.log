@@ -5,3 +5,4 @@
 2025-08-21 17:48:01 - chore: update requirements.txt
 2025-09-01 15:29:13 - chore: update dependencies
 2025-10-01 15:17:11 - chore: update dependencies
+2025-10-17 15:46:30 - fix: handle empty input gracefully
