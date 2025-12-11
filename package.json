@@ -1,0 +1,17 @@
+{
+    "name": "expose-ip-package",
+    "version": "1.0.0",
+    "description": "Package that exposes the IP address of the machine to the internet",
+    "main": "cli.js",
+    "bin": {
+      "expose-ip": "./cli.js"
+    },
+    "scripts": {
+      "postinstall": "node postinstall.js"
+    },
+    "files": [
+      "cli.js",
+      "postinstall.js",
+      "setup-env.bat"
+    ]
+}
